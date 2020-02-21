@@ -32,4 +32,6 @@ All credits go to the author [@indreklasn](https://github.com/indreklasn).
 Link to the original repository:
 https://github.com/indreklasn/react-native-redux-crypto-tracker/tree/chapter-4
 
+Code is explained [here](https://codeburst.io/learn-how-to-build-a-rn-redux-cryptocurrency-app-chapter-iv-b0e0c5ca2dca).
+
 Updated and pushed in an hour for [@prarthnasl](https://github.com/prarthnasl) :smile:
